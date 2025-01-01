@@ -45,9 +45,9 @@ export const Network = () => {
           <div className="text-center">
             <h3 className="text-2xl font-bold mb-8">Connect With Me</h3>
             <div className="flex justify-center gap-6">
-              <a href="https://github.com" className="text-gray-600 hover:text-gray-900">GitHub</a>
-              <a href="https://linkedin.com" className="text-gray-600 hover:text-gray-900">LinkedIn</a>
-              <a href="https://twitter.com" className="text-gray-600 hover:text-gray-900">Twitter</a>
+              <a href="https://github.com/professor0121" className="text-gray-600 hover:text-gray-900">GitHub</a>
+              <a href="https://www.linkedin.com/in/abhishek-kushwaha-5a3a49302/" className="text-gray-600 hover:text-gray-900">LinkedIn</a>
+              <a href="https://x.com/Abhishekak069?t=A2zTzLqyQSqhZ3P734AADg&s=09" className="text-gray-600 hover:text-gray-900">Twitter</a>
             </div>
           </div>
         </motion.div>
