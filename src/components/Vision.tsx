@@ -30,7 +30,7 @@ export const Vision = () => {
           whileInView="visible"
           viewport={{ once: true }}
         >
-          <h2 className="text-4xl font-bold text-center mb-16 text-gray-800">Vision for 2024</h2>
+          <h2 className="text-4xl font-bold text-center mb-16 text-gray-800">Vision for 2025</h2>
           
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
             {goals.map((goal, index) => (

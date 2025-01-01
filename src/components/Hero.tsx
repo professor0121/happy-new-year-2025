@@ -19,7 +19,7 @@ export const Hero = () => {
           transition={{ delay: 0.2 }}
         >
           Happy New Year
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400"> 2024</span>
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400"> 2025</span>
         </motion.h1>
 
         <motion.p 

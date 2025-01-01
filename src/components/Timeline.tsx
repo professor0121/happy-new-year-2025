@@ -6,19 +6,19 @@ export const Timeline = () => {
   const achievements = [
     {
       title: "Cloud Migration Success",
-      date: "Q1 2023",
+      date: "Q1 2024",
       description: "Led successful migration of legacy systems to cloud infrastructure, reducing operational costs by 40%",
       icon: <RocketLaunchIcon className="w-6 h-6" />
     },
     {
       title: "Performance Optimization",
-      date: "Q2 2023",
+      date: "Q2 2024",
       description: "Implemented advanced caching strategies, improving application response time by 60%",
       icon: <ChartBarIcon className="w-6 h-6" />
     },
     {
       title: "Microservices Architecture",
-      date: "Q3 2023",
+      date: "Q3 2024",
       description: "Designed and implemented scalable microservices architecture handling 1M+ daily requests",
       icon: <CodeBracketIcon className="w-6 h-6" />
     }
@@ -27,7 +27,7 @@ export const Timeline = () => {
   return (
     <section className="py-20 bg-gray-50">
       <div className="container mx-auto px-6">
-        <h2 className="text-4xl font-bold text-center mb-16 text-gray-800">2023 Year in Review</h2>
+        <h2 className="text-4xl font-bold text-center mb-16 text-gray-800">2024 Year in Review</h2>
         
         <VerticalTimeline>
           {achievements.map((achievement, index) => (
